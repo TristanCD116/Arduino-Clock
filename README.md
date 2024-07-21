@@ -57,6 +57,6 @@ Contributions are welcome! If you have any improvements or suggestions, feel fre
 The provided modified STL files were originally designed by [elegooofficial](https://github.com/elegooofficial)
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
