@@ -1,0 +1,11 @@
+Required Materials:
+
+|===
+| ID | Part name      | Part number | Quantity
+| R1 | 10k Resistor   | GS-0872     | 3
+| P1 | Push Button    | 19614R.S    | 3
+| A1 | Arduino Uno    | A000066     | 1
+| B1 | Piezo Buzzer   | PKM22EPP-40 | 1
+| A1 | LCD Display    | 1602A       | 1
+| I1 | I2C Backpack   | LCM1602 II  | 1
+|===
