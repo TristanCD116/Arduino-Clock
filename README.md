@@ -1,4 +1,4 @@
-# Arduino Coding Project
+# Arduino Alarm Clock
 
 Welcome to the Arduino Coding Project repository! This project aims to provide a comprehensive guide for building and programming an Arduino-based device. The repository includes detailed schematics, 3D print files, the Arduino code, and explanations to help you understand and replicate the project.
 
